@@ -40,7 +40,7 @@ This project recreates the Netflix mobile interface with dynamic movie sections,
 
 ## 🌐 Live Demo (Optional)
 
-🔗 [View Live Demo](https://your-link.vercel.app)  
+🔗 [View Live Demo](https://netflix-mobile-vite-react.vercel.app)  
 
 *(Deploy with Vercel or Netlify for a live version)*
 
